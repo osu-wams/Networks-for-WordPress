@@ -1,8 +1,8 @@
 === Networks for WordPress ===
 Contributors: ddean
 Tags: multisite, multi-site, sites, networks, multi-network, multiple, multi-domain, domains
-Requires at least: 3.0
-Tested up to: 3.7.1
+Requires at least: 5.0
+Tested up to: 6.1.1
 Stable tag: 1.1.6
 
 Adds a Networks panel for network admins to create and manage multiple Networks from one WordPress installation.
@@ -28,7 +28,7 @@ See **Frequently Asked Questions** for detailed instructions.
 
 == Installation ==
 
-1. Extract the plugin archive 
+1. Extract the plugin archive
 1. Upload plugin files to your `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Comment out `DOMAIN_CURRENT_SITE` in your `wp-config.php` file.
